@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="con" path="org.eclipse.ldt.ExecutionEnvironmentContainer/lua/5.1"/>
+	<buildpathentry kind="con" path="org.eclipse.dltk.USER_LIBRARY/Lua libraries"/>
+	<buildpathentry kind="src" path="src"/>
+	<buildpathentry external="true" kind="lib" path="C:/Program Files (x86)/Lua/5.1/clibs"/>
+</buildpath>
